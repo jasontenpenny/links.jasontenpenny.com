@@ -3,40 +3,35 @@
     "category": "brand",
     "icon": "bluesky",
     "displayName": "Bluesky",
-    "url": "https://bsky.app/profile/myprofile.bsky.social"
+    "url": "https://bsky.app/profile/jasontenpenny.com"
   },
   {
     "category": "brand",
     "icon": "github",
     "displayName": "Github",
-    "url": "https://github.com/myprofile"
+    "url": "https://github.com/jasontenpenny"
   },
   {
     "category": "brand",
     "icon": "linkedin",
     "displayName": "LinkedIn",
-    "url": "https://www.linkedin.com/in/myprofile"
+    "url": "https://www.linkedin.com/in/jasontenpenny"
+  },
+  {
+    "category": "brand",
+    "icon": "mastodon",
+    "displayName": "Mastodon",
+    "url": "https://mastodon.social/@jasontenpenny"
   },
   {
     "category": "brand",
     "icon": "twitter",
     "displayName": "Twitter / X",
-    "url": "https://mywebsite.com"
+    "url": "https://x.com/_jasontenpenny"
   },
   {
     "icon": "link",
     "displayName": "Website",
-    "url": "https://www.myblog.com"
-  },
-  {
-    "icon": "envelope",
-    "displayName": "Email",
-    "url": "mailto://email@domain.com"
-  },
-  {
-    "icon": "podcast",
-    "displayName": "My Podcast",
-    "subtitle": "Listen on Spotify",
-    "url": "https://spotify.com/mypodcast"
+    "url": "https://jasontenpenny.com"
   }
 ]

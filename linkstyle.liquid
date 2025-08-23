@@ -1,0 +1,12 @@
+---
+permalink: "/assets/css/linkstyle.css"
+layout: ""
+---
+
+{%- for link in links -%}
+{%- if link.color -%}
+.link-{{ link.icon }} div:hover, .link-{{ link.icon }} div:active {
+    background-color: {{ link.color }};
+}
+{%- endif -%}
+{%- endfor -%}

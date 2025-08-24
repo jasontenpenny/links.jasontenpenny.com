@@ -3,10 +3,15 @@ permalink: "/assets/css/linkstyle.css"
 layout: ""
 ---
 
-{%- for link in links -%}
-{%- if link.color -%}
+{% for link in links %}
+{% if link.background-color or link.text-color %}
 .link-{{ link.icon }} div:hover, .link-{{ link.icon }} div:active {
-    background-color: {{ link.color }};
+    {% if link.background-color %}
+    background-color: {{ link.background-color }};
+    {% endif %}
+    {% if link.text-color %}
+    color: {{ link.text-color }};
+    {% endif %}
 }
 {%- endif -%}
 {%- endfor -%}

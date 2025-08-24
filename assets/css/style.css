@@ -13,25 +13,25 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --linkbox-text-primary: rgb(75, 75, 75);
-        --linkbox-background: rgb(250, 250, 250);
-        --linkbox-hover-background: rgb(230, 230, 230);
-        --linkbox-hover-text: rgb(30, 30, 30);
-        --linkbox-border: rgb(210, 210, 210);
-        --background: rgb(250, 250, 250);
-        --text-primary: rgb(75, 75, 75);    
+        --linkbox-text-primary: rgb(100, 100, 100);
+        --linkbox-background: rgb(255, 253, 253);
+        --linkbox-hover-background: rgb(200, 200, 200);
+        --linkbox-hover-text: rgb(20, 20, 20);
+        --linkbox-border: rgb(128, 128, 128);
+        --background: rgb(255, 253, 253);
+        --text-primary: rgb(20, 20, 20);    
     }
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --linkbox-text-primary: rgb(230, 230, 230);
-        --linkbox-background: rgb(30, 30, 30);
-        --linkbox-hover-background: rgb(75, 75, 75);
-        --linkbox-hover-text: rgb(250, 250, 250);
-        --linkbox-border: rgb(210, 210, 210);
-        --background: rgb(30, 30, 30);
-        --text-primary: rgb(230, 230, 230);    
+        --linkbox-background: rgb(20, 20, 20);
+        --linkbox-hover-background: rgb(50, 50, 50);
+        --linkbox-hover-text: rgb(255, 253, 253);
+        --linkbox-border: rgb(128, 128, 128);
+        --background: rgb(20, 20, 20);
+        --text-primary: rgb(225, 223, 223);    
     }
 }
 

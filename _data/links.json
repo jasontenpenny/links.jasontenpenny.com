@@ -3,21 +3,24 @@
     "category": "brand",
     "icon": "bluesky",
     "displayName": "Bluesky",
-    "color": "#0085ff",
+    "background-color": "#0085ff",
+    "text-color": "#ffffff",
     "url": "https://bsky.app/profile/jasontenpenny.com"
   },
   {
     "category": "brand",
     "icon": "github",
     "displayName": "Github",
-    "color": "#000000",
+    "background-color": "#000000",
+    "text-color": "#ffffff",
     "url": "https://github.com/jasontenpenny"
   },
   {
     "category": "brand",
     "icon": "linkedin",
     "displayName": "LinkedIn",
-    "color": "#2867b2",
+    "background-color": "#2867b2",
+    "text-color": "#ffffff",
     "url": "https://www.linkedin.com/in/jasontenpenny"
   },
   {
@@ -29,14 +32,16 @@
     "category": "brand",
     "icon": "mastodon",
     "displayName": "Mastodon",
-    "color": "#6364ff",
+    "background-color": "#6364ff",
+    "text-color": "#000000",
     "url": "https://mastodon.social/@jasontenpenny"
   },
   {
     "category": "brand",
     "icon": "x-twitter",
     "displayName": "X / Twitter",
-    "color": "#000000",
+    "background-color": "#000000",
+    "text-color": "#ffffff",
     "url": "https://x.com/_jasontenpenny"
   },
   {

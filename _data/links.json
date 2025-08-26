@@ -48,5 +48,10 @@
     "icon": "house-chimney",
     "displayName": "Website",
     "url": "https://jasontenpenny.com"
+  },
+  {
+    "icon": "envelope",
+    "displayName": "Email",
+    "url": "javascript:location.href%20=%20'mailto:'%20+%20['hello','jasontenpenny.com'].join('@')"
   }
 ]

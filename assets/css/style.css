@@ -26,11 +26,11 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --linkbox-text-primary: rgb(230, 230, 230);
-        --linkbox-background: rgb(20, 20, 20);
+        --linkbox-background: #000000;
         --linkbox-hover-background: rgb(50, 50, 50);
         --linkbox-hover-text: rgb(255, 253, 253);
         --linkbox-border: rgb(128, 128, 128);
-        --background: rgb(20, 20, 20);
+        --background: #000000;
         --text-primary: rgb(225, 223, 223);    
     }
 }

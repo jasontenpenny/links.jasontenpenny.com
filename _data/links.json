@@ -11,7 +11,7 @@
     "category": "brand",
     "icon": "github",
     "displayName": "Github",
-    "background-color": "#000000",
+    "background-color": "#252525",
     "text-color": "#ffffff",
     "url": "https://github.com/jasontenpenny"
   },
@@ -40,7 +40,7 @@
     "category": "brand",
     "icon": "x-twitter",
     "displayName": "X / Twitter",
-    "background-color": "#000000",
+    "background-color": "#252525",
     "text-color": "#ffffff",
     "url": "https://x.com/_jasontenpenny"
   },

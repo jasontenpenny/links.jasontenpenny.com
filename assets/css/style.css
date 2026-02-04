@@ -6,7 +6,7 @@
 :root {
     font-family: Inter, sans-serif;
     font-feature-settings: 'liga' 1, 'ss02' 1;
-    --icon-font: "Font Awesome 7 Free";
+    --icon-font: "Font Awesome 7 Free", "Font Awesome 7 Brands";
     line-height: 1.25rem;
     color-scheme: light dark;
 }
